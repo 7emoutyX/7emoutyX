@@ -1,5 +1,5 @@
 ## DAOUDI MOHAMMED
-Hey I'm Mohammed , A passionate electronics and embedded systems engineering student from Morocco , ENSA-Kénitra .I Love C++ , Rust , Electronics and other electrical stuff ...
+Hey I'm Mohammed , A passionate electronics and embedded systems engineering student from Morocco , ENSA-Kénitra . I Love C++ , Rust , Electronics and other electrical stuff ...
 
 
 ## 🌐 Socials:
